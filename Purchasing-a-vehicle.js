@@ -41,3 +41,6 @@ Note:
   nbMonths(12000, 8000, 1000, 1.5) should return [0, 4000]
   nbMonths(8000, 8000, 1000, 1.5) should return [0, 0]
 */
+
+
+// Solution
